@@ -23,7 +23,7 @@ start_time = time.time()
 
 # Option 1: Load a random sample directly from the CSV
 # This is memory-efficient as it doesn't load the entire dataset
-large_df = pd.read_csv("995K_FakeNewsCorpus_subset.csv", 
+large_df = pd.read_csv("995,000_rows.csv", 
                         nrows=SAMPLE_SIZE,  # Only read this many rows
                         skiprows=lambda i: i > 0 and np.random.random() > SAMPLE_SIZE/995000)  # Random sampling
 

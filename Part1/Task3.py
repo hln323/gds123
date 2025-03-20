@@ -19,7 +19,7 @@ print(f"Loading and sampling {SAMPLE_SIZE} rows from the dataset...")
 start_time = time.time()
 
 # Load a random sample of the dataset
-large_df = pd.read_csv("995K_FakeNewsCorpus_subset.csv", 
+large_df = pd.read_csv("995,000_rows.csv", 
                         nrows=SAMPLE_SIZE,
                         skiprows=lambda i: i > 0 and np.random.random() > SAMPLE_SIZE/995000)
 

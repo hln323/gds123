@@ -1,0 +1,26 @@
+# FakeNewsCorpus Dataset Observations
+
+## Basic Statistics
+- Dataset sample size: 3 rows
+- News types distribution: {'reliable': 2, 'political': 1}
+- Average article length: 1076.33 characters
+
+## Content Analysis
+- Average URLs per article: 0.00
+- Average dates mentioned per article: 0.00
+- Average numbers mentioned per article: 1.33
+- Average word count per article: 187.00
+
+## Vocabulary Analysis
+- Original vocabulary size: 83
+- Vocabulary after stopword removal: 57
+- Vocabulary after stemming: 57
+- Reduction rate after stopword removal: 31.33%
+- Reduction rate after stemming: 0.00%
+
+## Key Observations
+1. **Content Length Variations**: Different news types show distinct patterns in article length, which could be used as a feature for classification.
+2. **Domain Distribution**: The news sources are concentrated among a small number of domains, which may introduce bias in the dataset.
+3. **Vocabulary Reduction**: Stemming results in a significant reduction in vocabulary size, which would help simplify the feature space for classification models.
+4. **URL Usage**: The presence and number of URLs in articles varies across news types, which could be an indicator for classification.
+5. **Word Frequency Patterns**: The most common words differ before and after preprocessing, suggesting important differences in how content is structured across news types.
