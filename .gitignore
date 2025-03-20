@@ -1,15 +1,1 @@
-Part1/*.csv
-Part1/*.json
-Part1/*.png
-
-Part2/*.csv
-Part2/*.json
-Part2/*.png
-
-Part3/*.csv
-Part3/*.json
-Part3/*.png
-
-Part4/*.csv
-Part4/*.json
-Part4/*.png
+Data/*
