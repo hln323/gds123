@@ -2,3 +2,4 @@ Data/*
 *.csv
 *.png
 *.txt
+liar_dataset/*
