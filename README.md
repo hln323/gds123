@@ -2,7 +2,7 @@
 
 - Sverri Lyager Jacobsen (fgv469)
 - Christoph Friedemann Ueberfuhr (vsn354)
-- Oskar (hln323)
+- Oskar Jørgensen (hln323)
 
 
 #INSTALLATION AND SETUP#
