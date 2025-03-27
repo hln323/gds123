@@ -7,7 +7,7 @@
 
 #INSTALLATION AND SETUP#
 
-To properly setup up the projects please ensure that you have placed the following files in main folder (gds123):  
+To properly setup up the project please ensure that you have placed the following files in main folder (gds123):  
 
 - 995.000_rows.csv
     A link to the download and more information about the dataset can be found here: https://github.com/several27/FakeNewsCorpus. Please note that the file must be named "995.000rows" in order to work.
