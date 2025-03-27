@@ -1,6 +1,4 @@
 *.csv
-*.png
-*.txt
 liar_dataset/
 Part1.py
 Part2.py
