@@ -1,6 +1,6 @@
 This GDS exam project code can be run once you have the 995,000_rows.csv file in the gds123 folder (main folder) along with the unzipped LIAR dataset.
 
-The code currently exists as .py files and notebooks, where the notebooks are an attempt to polish the code from the .py files and make everything more concise. To run the code we therefore recommend running the following files:
+The code currently exists as notebooks. To run the code we therefore recommend running the following files in an environment that can run notebooks:
 Part1.ipynb
 Part2.ipynb
 Part3.ipynb
